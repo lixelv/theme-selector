@@ -1,5 +1,9 @@
 src/lib/components
 src/lib/utils.ts
+src/lib/utils.js
+src/lib/utils
 
 components
 utils.ts
+utils.js
+utils
