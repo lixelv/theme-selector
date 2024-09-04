@@ -1,6 +1,19 @@
 {
 	"name": "theme-selector",
-	"version": "0.1.0",
+	"version": "0.1.1",
+	"author": "Simon Efremenko",
+	"license": "MIT",
+	"keywords": [
+		"web-components",
+		"dark-theme",
+		"svelte",
+		"store",
+		"shadcn-svelte"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lixelv/theme-selector"
+	},
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",
